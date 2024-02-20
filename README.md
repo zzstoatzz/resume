@@ -36,4 +36,4 @@ University of Michigan, Ann Arbor | *Graduation Year: 2020*
 ## Contact
 - **Email:** [zzstoatzz@protonmail.com](mailto:zzstoatzz@protonmail.com)
 - **GitHub:** [github.com/zzstoatzz](https://github.com/zzstoatzz)
-- **Twitter:** [nate](https://x.com/Nathan_Nowack)
+- **Twitter:** [n8](https://x.com/Nathan_Nowack)
