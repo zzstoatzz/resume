@@ -22,6 +22,12 @@ One way or another: simply solving complex problems people need solved (ideally 
 University of Michigan, Ann Arbor | *Graduation Year: 2020*
 
 
+## Technologies
+- python, go
+- `fastapi`, `pydantic`
+- postgres, sqlite
+- docker, kubernetes, helm
+
 ## Side projects
 - [marvin](https://github.com/PrefectHQ/marvin) - popular AI engineering toolkit
 - [raggy](https://github.com/zzstoatzz/raggy) - not-so-popular RAG toolkit
@@ -30,4 +36,4 @@ University of Michigan, Ann Arbor | *Graduation Year: 2020*
 ## Contact
 - **Email:** [zzstoatzz@protonmail.com](mailto:zzstoatzz@protonmail.com)
 - **GitHub:** [github.com/zzstoatzz](https://github.com/zzstoatzz)
-
+- **Twitter:** [nate](https://x.com/Nathan_Nowack)
