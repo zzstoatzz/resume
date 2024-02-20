@@ -27,9 +27,7 @@ University of Michigan, Ann Arbor | *Graduation Year: 2020*
 - [raggy](https://github.com/zzstoatzz/raggy) - not-so-popular RAG toolkit
 - [gh-util](https://github.com/zzstoatzz/gh) - bc I get annoyed with rewriting the same github api code
 
-## Contact Me
-
-- **Email:** [nate@example.com](mailto:nate@example.com)
-- **LinkedIn:** [linkedin.com/in/nate](https://www.linkedin.com/in/nate)
+## Contact
+- **Email:** [zzstoatzz@protonmail.com](mailto:zzstoatzz@protonmail.com)
 - **GitHub:** [github.com/zzstoatzz](https://github.com/zzstoatzz)
 
