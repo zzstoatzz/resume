@@ -13,6 +13,9 @@ One way or another: simply solving complex problems people need solved (ideally 
 - Developed tooling to manage bulk-maintainence of all 30+ integration libraries like the [collection-manager](https://github.com/PrefectHQ/prefect/blob/main/scripts/collections-manager)
 - Designed, implemented and managed open-source autonomous systems like our [slackbot](https://github.com/PrefectHQ/marvin/tree/main/cookbook/slackbot)
 
+![image](https://github.com/zzstoatzz/resume/assets/31014960/aeea19e9-8f2b-4db6-8c88-287ae5869adf)
+
+
 ### Data Engineer, SLATE (acquired by Prefect)
 *Remote* | *2021-2022*
 - a bunch of custom IaC, ETL, and data modeling for customers
