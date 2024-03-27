@@ -9,6 +9,7 @@ One way or another: simply solving complex problems people need solved (ideally 
 ### Backend Python Developer, Prefect
 *Chicago IL* | *2022-present*
 - Worked with product leaders to distill simple, sane-default solutions from wide and complex user needs
+- Designed, implemented, and maintained [prefecthq/marvin](https://github.com/PrefectHQ/marvin)
 - [Brought AI into Prefect Cloud](https://www.prefect.io/blog/introducing-error-summaries)
 - Developed tooling to manage bulk-maintainence of all 30+ integration libraries like the [collection-manager](https://github.com/PrefectHQ/prefect/blob/main/scripts/collections-manager)
 - Designed, implemented and managed open-source autonomous systems like our [slackbot](https://github.com/PrefectHQ/marvin/tree/main/cookbook/slackbot)
