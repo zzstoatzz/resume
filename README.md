@@ -29,7 +29,7 @@ University of Michigan, Ann Arbor | *Graduation Year: 2020*
 ## Technologies
 - python, go
 - `fastapi`, `pydantic`
-- postgres, sqlite
+- postgres, sqlite, redis (streams)
 - docker, kubernetes, helm
 
 ## Side projects
