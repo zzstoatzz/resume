@@ -1,0 +1,57 @@
+% Define colors
+\usepackage{xcolor}
+\definecolor{linkcolor}{HTML}{0000EE}  % Standard blue for links
+\definecolor{urlcolor}{HTML}{4B0082}
+
+% Customize hyperref
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=linkcolor,
+    filecolor=magenta,      
+    urlcolor=urlcolor,
+}
+
+% Customize inline code appearance
+\usepackage{fancyvrb}
+\definecolor{codebackground}{RGB}{240,240,240}
+\let\oldtexttt\texttt
+\renewcommand{\texttt}[1]{
+  \colorbox{codebackground}{\oldtexttt{#1}}
+}
+
+% Customize section appearance
+\usepackage{titlesec}
+\titleformat{\section}
+  {\large\bfseries\color{linkcolor}}
+  {}
+  {0em}
+  {}
+  [\titlerule]
+
+\titleformat{\subsection}
+  {\normalsize\bfseries\color{urlcolor}}
+  {}
+  {0em}
+  {}
+
+% Adjust page margins
+\usepackage[margin=0.5in]{geometry}
+
+% Adjust line spacing
+\usepackage{setspace}
+\setstretch{0.9}
+
+% Adjust paragraph spacing
+\setlength{\parskip}{0.5em}
+
+% Fix bullet points and list spacing
+\usepackage{enumitem}
+\setlist{nosep, leftmargin=*}
+\setlist[itemize]{label=\textbullet, topsep=0pt, partopsep=0pt, itemsep=2pt, parsep=2pt}
+
+% Ensure Markdown lists are properly converted
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\newcommand{\linkedtext}[2]{\href{#1}{\underline{\textcolor{urlcolor}{#2}}}}
