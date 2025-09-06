@@ -18,3 +18,11 @@ clean:
 # watch for changes and regenerate
 watch:
     watchexec -e md,tex just pdf
+
+# check spelling in markdown files
+spell:
+    uv tool run codespell *.md covers/*.md
+
+# run pre-commit checks on all files
+check:
+    uv tool run pre-commit run --all-files

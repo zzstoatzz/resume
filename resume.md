@@ -9,11 +9,11 @@ backend | data | ai | oss
 
 - Worked with product leaders to distill sane-default experiences from complex user needs
 - Co-authoring and maintaining [`fastmcp`](https://github.com/jlowin/fastmcp) (the most popular python interface to MCP)
-- Expanding and aintaining the open-source Prefect SDK and server components
-- Building AI-powered systems (NLIs + RAG etc) to extend teams within the organization
+- Expanding and maintaining the open-source Prefect SDK and server components
+- Building bleeding-edge AI-powered systems (NLIs + RAG etc) to extend teams within the organization
 - Working with leadership and marketing to improve our digital footprint and outreach
 - [Pioneering use of PyO3](https://github.com/zzstoatzz/visit_collection_rs/tree/main) to defer CPU-intensive work to a faster, more efficient runtime
-- Synthesize the bleeding edge of AI tooling to adopt maximally efficient in-house solutions and practices
+- Implemented distributed messaging to enable high-availability deployments of Prefect Server
 
 
 ### Software Engineer, Prefect
